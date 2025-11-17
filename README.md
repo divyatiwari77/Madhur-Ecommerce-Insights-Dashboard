@@ -255,4 +255,5 @@ Replace with your GitHub image link after uploading.
 The Madhur Ecommerce Sales Dashboard is a visually stunning and functionally rich reporting tool designed to accelerate ecommerce decision-making. Whether you're a startup owner, an analyst, or a digital strategist—this dashboard brings clarity from chaos and insight from data. 📦📈
 
 🧠 Crafted with Data. Driven by Passion. 💜🛠️
-Snapshot of Project- (https://github.com/divyatiwari77/Madhur-Ecommerce-Insights-Dashboard/blob/main/Screenshot%20(136).png)
+
+Snapshot of Project- [Alt text](https://github.com/divyatiwari77/Madhur-Ecommerce-Insights-Dashboard/blob/main/Screenshot%20(136).png)
