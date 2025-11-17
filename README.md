@@ -171,5 +171,5 @@ The Madhur Ecommerce Sales Dashboard is a visually stunning and functionally ric
 
 🧠 Crafted with Data. Driven by Passion. 💜🛠️
 
-Snapshot of Project- [Alt text](https://github.com/divyatiwari77/Madhur-Ecommerce-Insights-Dashboard/blob/main/Screenshot%20(136).png)
-Example: [Dashboard Preview](https://github.com/divyatiwari77/Madhur-Ecommerce-Insights-Dashboard/blob/main/Screenshot%20(136).png)
+Snapshot of Project-
+[Dashboard Preview](https://github.com/divyatiwari77/Madhur-Ecommerce-Insights-Dashboard/blob/main/Screenshot%20(136).png)
